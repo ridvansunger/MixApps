@@ -1,0 +1,10 @@
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.csproj.AssemblyReference.cache
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.Form1.resources
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.Properties.Resources.resources
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.csproj.GenerateResource.cache
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.csproj.CoreCompileInputs.cache
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\bin\Debug\aralik_sayi_listeme.exe.config
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\bin\Debug\aralik_sayi_listeme.exe
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\bin\Debug\aralik_sayi_listeme.pdb
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.exe
+D:\YEDEK\Desktop\MixApps\aralik_sayi_listeme\aralik_sayi_listeme\obj\Debug\aralik_sayi_listeme.pdb
