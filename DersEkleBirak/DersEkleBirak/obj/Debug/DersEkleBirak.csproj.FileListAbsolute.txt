@@ -1,0 +1,10 @@
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\bin\Debug\DersEkleBirak.exe.config
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\bin\Debug\DersEkleBirak.exe
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\bin\Debug\DersEkleBirak.pdb
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.csproj.AssemblyReference.cache
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.Form1.resources
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.Properties.Resources.resources
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.csproj.GenerateResource.cache
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.csproj.CoreCompileInputs.cache
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.exe
+D:\YEDEK\Desktop\MixApps\DersEkleBirak\DersEkleBirak\obj\Debug\DersEkleBirak.pdb
