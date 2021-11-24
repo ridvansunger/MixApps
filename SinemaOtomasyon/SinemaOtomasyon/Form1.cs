@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SinemaOtomasyon.DAL;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,13 +23,16 @@ namespace SinemaOtomasyon
         public PictureBox secilenKoltuk;
 
 
-        string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
+        public string path = Path.GetDirectoryName(Assembly.GetExecutingAssembly().Location);
 
-        
+        CustomerRepository customerRepository;
 
         private void Form1_Load(object sender, EventArgs e)
         {
             FillKoltuk();
+            customerRepository = new CustomerRepository();
+
+
         }
 
         
@@ -70,5 +74,8 @@ namespace SinemaOtomasyon
 
 
         }
+
+        
+        
     }
 }

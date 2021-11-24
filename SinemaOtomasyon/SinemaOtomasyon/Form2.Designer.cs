@@ -32,7 +32,7 @@ namespace SinemaOtomasyon
             this.panel1 = new System.Windows.Forms.Panel();
             this.label1 = new System.Windows.Forms.Label();
             this.txtAdSoyad = new System.Windows.Forms.TextBox();
-            this.txtTc = new System.Windows.Forms.TextBox();
+            this.txtPhone = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.rbBay = new System.Windows.Forms.RadioButton();
@@ -68,12 +68,12 @@ namespace SinemaOtomasyon
             this.txtAdSoyad.Size = new System.Drawing.Size(225, 22);
             this.txtAdSoyad.TabIndex = 1;
             // 
-            // txtTc
+            // txtPhone
             // 
-            this.txtTc.Location = new System.Drawing.Point(147, 162);
-            this.txtTc.Name = "txtTc";
-            this.txtTc.Size = new System.Drawing.Size(222, 22);
-            this.txtTc.TabIndex = 2;
+            this.txtPhone.Location = new System.Drawing.Point(147, 162);
+            this.txtPhone.Name = "txtPhone";
+            this.txtPhone.Size = new System.Drawing.Size(222, 22);
+            this.txtPhone.TabIndex = 2;
             // 
             // label2
             // 
@@ -89,9 +89,9 @@ namespace SinemaOtomasyon
             this.label3.AutoSize = true;
             this.label3.Location = new System.Drawing.Point(40, 167);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(26, 17);
+            this.label3.Size = new System.Drawing.Size(56, 17);
             this.label3.TabIndex = 4;
-            this.label3.Text = "TC";
+            this.label3.Text = "Telefon";
             // 
             // rbBay
             // 
@@ -146,11 +146,12 @@ namespace SinemaOtomasyon
             this.Controls.Add(this.rbBay);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
-            this.Controls.Add(this.txtTc);
+            this.Controls.Add(this.txtPhone);
             this.Controls.Add(this.txtAdSoyad);
             this.Controls.Add(this.panel1);
             this.Name = "Form2";
             this.Text = "Form2";
+            this.Load += new System.EventHandler(this.Form2_Load);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.ResumeLayout(false);
@@ -163,7 +164,7 @@ namespace SinemaOtomasyon
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox txtAdSoyad;
-        private System.Windows.Forms.TextBox txtTc;
+        private System.Windows.Forms.TextBox txtPhone;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.RadioButton rbBay;

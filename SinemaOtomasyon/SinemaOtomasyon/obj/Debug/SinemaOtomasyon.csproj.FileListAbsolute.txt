@@ -20,3 +20,14 @@ D:\YEDEK\Desktop\BOOSTBilgeAdam\MyWorkspaces\6.Hafta\SinemaOtomasyon\SinemaOtoma
 D:\YEDEK\Desktop\BOOSTBilgeAdam\MyWorkspaces\6.Hafta\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CoreCompileInputs.cache
 D:\YEDEK\Desktop\BOOSTBilgeAdam\MyWorkspaces\6.Hafta\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
 D:\YEDEK\Desktop\BOOSTBilgeAdam\MyWorkspaces\6.Hafta\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe.config
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.exe
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\bin\Debug\SinemaOtomasyon.pdb
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.AssemblyReference.cache
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Form1.resources
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Form2.resources
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Properties.Resources.resources
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.GenerateResource.cache
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CoreCompileInputs.cache
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb

@@ -1,0 +1,10 @@
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.csproj.AssemblyReference.cache
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.Form1.resources
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.Properties.Resources.resources
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.csproj.GenerateResource.cache
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.csproj.CoreCompileInputs.cache
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\bin\Debug\radio_ile_Dort_islem.exe.config
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\bin\Debug\radio_ile_Dort_islem.exe
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\bin\Debug\radio_ile_Dort_islem.pdb
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.exe
+D:\YEDEK\Desktop\MixApps\radio_ile_Dort_islem\radio_ile_Dort_islem\obj\Debug\radio_ile_Dort_islem.pdb
