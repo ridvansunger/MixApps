@@ -71,11 +71,24 @@ namespace SinemaOtomasyon
             
             secilenKoltuk.Image= Image.FromFile($"{path}\\resim\\Dolu.png");
 
+        }
 
+        public void KoltuguBosalt()
+        {
+            secilenKoltuk.Image= Image.FromFile($"{path}\\resim\\boş.png");
 
         }
 
-        
+
+
+        private void btnSeatAnalize_Click(object sender, EventArgs e)
+        {
+            Analiz analiz = new Analiz();
+            analiz.ShowDialog();
+
+        }
+
+
         
     }
 }

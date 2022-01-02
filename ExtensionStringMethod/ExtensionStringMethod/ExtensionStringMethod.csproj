@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B54E050F-9958-4C35-BE26-ADF69B5132A5}</ProjectGuid>
+    <ProjectGuid>{7036510F-CB68-43BB-8B52-58620FDC6717}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>SinemaOtomasyon</RootNamespace>
-    <AssemblyName>SinemaOtomasyon</AssemblyName>
+    <RootNamespace>ExtensionStringMethod</RootNamespace>
+    <AssemblyName>ExtensionStringMethod</AssemblyName>
     <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,39 +46,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Analiz.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Analiz.Designer.cs">
-      <DependentUpon>Analiz.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Core\ConsMessages.cs" />
-    <Compile Include="DAL\CustomerRepository.cs" />
-    <Compile Include="Entities\Customer.cs" />
-    <Compile Include="FakeDb\CustomerDataBaseFakeDb.cs" />
+    <Compile Include="CustomExtensions\StringExtensions.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Form2.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Helper\Utility.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Analiz.resx">
-      <DependentUpon>Analiz.cs</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -102,10 +80,5 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Content Include="resim\boş.png" />
-    <Content Include="resim\Dolu.png" />
-  </ItemGroup>
-  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

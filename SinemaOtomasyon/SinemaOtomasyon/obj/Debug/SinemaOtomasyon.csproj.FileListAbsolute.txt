@@ -31,3 +31,4 @@ D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasy
 D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.csproj.CoreCompileInputs.cache
 D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.exe
 D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.pdb
+D:\YEDEK\Desktop\MixApps\SinemaOtomasyon\SinemaOtomasyon\obj\Debug\SinemaOtomasyon.Analiz.resources

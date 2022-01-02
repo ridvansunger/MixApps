@@ -1,5 +1,7 @@
-﻿using SinemaOtomasyon.DAL;
+﻿using SinemaOtomasyon.Core;
+using SinemaOtomasyon.DAL;
 using SinemaOtomasyon.Entities;
+using SinemaOtomasyon.Helper;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -35,10 +37,42 @@ namespace SinemaOtomasyon
         private void Form2_Load(object sender, EventArgs e)
         {
             customerRepository = new CustomerRepository();
-            if (form1.secilenKoltuk.Tag!=null)
+
+            FillData();
+            if (form1.secilenKoltuk.Tag != null)
             {
                 int kisiId = Convert.ToInt32(form1.secilenKoltuk.Tag);
+
                 KisiBilgileriniGetir(kisiId);
+            }
+        }
+
+        public void FillData()
+        {
+            int id = Convert.ToInt32(this.Tag);
+
+            try
+            {
+                if (id > 0)
+                {
+                    Customer customer = customerRepository.FindById(id);
+                    if (customer != null)
+                    {
+                        txtAdSoyad.Text = customer.customerName;
+                        txtPhone.Text = customer.customerPhone;
+                        //customer.customerSex("Bay"?rbBay.Checked:rbBayan.Checked);
+
+                        if (customer.customerSex == "Bay")
+                            rbBay.Checked = true;
+                        else
+                            rbBayan.Checked = true;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+                Utility.ShowErrorMessage(ex.Message);
             }
         }
 
@@ -100,6 +134,9 @@ namespace SinemaOtomasyon
                     PictureBox form2yeGelenKoltuk = form1.secilenKoltuk;
                     form2yeGelenKoltuk.Tag = customer.customerID;
                     form2yeGelenKoltuk.Image = Image.FromFile($"{form1.path}\\resim\\Dolu.png");
+
+
+                    Utility.ShowSuccessMessage("Kayıt başarılı");
                     this.Close();
                 }
                 else
@@ -115,7 +152,7 @@ namespace SinemaOtomasyon
             catch (Exception ex)
             {
 
-                MessageBox.Show(ex.Message);
+                Utility.ShowErrorMessage(ex.Message);
             }
 
 
@@ -125,7 +162,37 @@ namespace SinemaOtomasyon
 
         private void btnCancel_Click(object sender, EventArgs e)
         {
-            this.Close();
+
+
+            try
+            {
+                if (txtAdSoyad.Text != "")
+                {
+                    DialogResult result = MessageBox.Show("silme işlemini onaylıyor musunuz?", "Onay Ekranı", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                    if(result==DialogResult.Yes)
+                    {
+
+                        form1.KoltuguBosalt();
+                        RezervasyonuEkranTemizle();
+                        
+
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+
+                Utility.ShowErrorMessage(ex.Message);
+            }
+        }
+
+
+        public void RezervasyonuEkranTemizle()
+        {
+            txtAdSoyad.Text = "";
+            txtPhone.Text = "";
+            rbBay.Checked = false;
+            rbBayan.Checked = false;
         }
 
 

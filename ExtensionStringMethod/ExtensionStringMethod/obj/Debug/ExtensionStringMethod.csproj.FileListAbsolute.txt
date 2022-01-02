@@ -1,0 +1,10 @@
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\bin\Debug\ExtensionStringMethod.exe.config
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\bin\Debug\ExtensionStringMethod.exe
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\bin\Debug\ExtensionStringMethod.pdb
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.csproj.AssemblyReference.cache
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.Properties.Resources.resources
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.csproj.GenerateResource.cache
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.csproj.CoreCompileInputs.cache
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.exe
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.pdb
+D:\YEDEK\Desktop\BOOSTBilgeAdam\ödevler\ExtensionStringMethod\ExtensionStringMethod\obj\Debug\ExtensionStringMethod.Form1.resources
