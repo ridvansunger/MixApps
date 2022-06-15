@@ -1,0 +1,15 @@
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.json
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\bin\Debug\net5.0\EntityLayer.runtimeconfig.dev.json
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.genruntimeconfig.cache
+D:\YEDEK\Desktop\gitHup\Core_Project\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
